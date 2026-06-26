@@ -12,7 +12,8 @@ public:
         for(auto it:mp1){
             // if value in mmp1 is not equals to value in mp2
             // then return false
-            if(mp1!=mp2){
+                if(it.second!=mp2[it.first]){
+                // if(mp1!=mp2){
                 return false;
             }
         }
