@@ -10,4 +10,4 @@ int main(){
     cin>>name;
     cout<<"Enter your age: "<<endl;
     return 0;
-}
+} 
