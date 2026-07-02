@@ -2,7 +2,7 @@
 using namespace std;
 
 int main(){
-    int a=345;
+    int a = 345;
     int *p = &a;
     cout<<p<<endl;
     cout<<*p;
