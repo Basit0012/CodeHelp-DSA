@@ -12,7 +12,8 @@ public:
         rev = (10 * rev) + rem;//into 10 
         x = x / 10;
       }  
-      if(rev == original) return true;
-      else return false;
+    //   if(rev == original) return true;
+    //   else return false;
+    return rev == original;
     }
 };
