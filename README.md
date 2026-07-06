@@ -25,6 +25,7 @@
 | [0169-majority-element](https://github.com/Basit0012/CodeHelp-DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Basit0012/CodeHelp-DSA/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Basit0012/CodeHelp-DSA/tree/master/0283-move-zeroes) |
+| [0704-binary-search](https://github.com/Basit0012/CodeHelp-DSA/tree/master/0704-binary-search) |
 ## Hash Table
 |  |
 | ------- |
@@ -69,4 +70,5 @@
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Basit0012/CodeHelp-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0704-binary-search](https://github.com/Basit0012/CodeHelp-DSA/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
