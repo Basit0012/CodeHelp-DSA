@@ -21,6 +21,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Basit0012/CodeHelp-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Basit0012/CodeHelp-DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Basit0012/CodeHelp-DSA/tree/master/0136-single-number) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Basit0012/CodeHelp-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Basit0012/CodeHelp-DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Basit0012/CodeHelp-DSA/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Basit0012/CodeHelp-DSA/tree/master/0283-move-zeroes) |
@@ -53,6 +54,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Basit0012/CodeHelp-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Basit0012/CodeHelp-DSA/tree/master/0283-move-zeroes) |
 ## Dynamic Programming
 |  |
@@ -63,4 +65,8 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/Basit0012/CodeHelp-DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Basit0012/CodeHelp-DSA/tree/master/0009-palindrome-number) |
+## Binary Search
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Basit0012/CodeHelp-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
