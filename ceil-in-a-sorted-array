@@ -1,0 +1,97 @@
+/*
+GeeksforGeeks - Ceil in a Sorted Array
+
+Problem Statement:
+Given a sorted array arr[] and an integer x, find the index (0-based)
+of the smallest element in arr[] that is greater than or equal to x.
+This element is called the ceil of x.
+
+If such an element does not exist, return -1.
+
+Note:
+If there are multiple occurrences of the ceil value,
+return the index of its first occurrence.
+
+Examples:
+
+Example 1:
+Input:
+arr[] = [1, 2, 8, 10, 11, 12, 19]
+x = 5
+
+Output:
+2
+
+Explanation:
+The smallest element greater than or equal to 5 is 8,
+which is present at index 2.
+
+-----------------------------------------------------
+
+Example 2:
+Input:
+arr[] = [1, 2, 8, 10, 11, 12, 19]
+x = 20
+
+Output:
+-1
+
+Explanation:
+No element greater than or equal to 20 exists.
+
+-----------------------------------------------------
+
+Example 3:
+Input:
+arr[] = [1, 1, 2, 8, 10, 11, 12, 19]
+x = 0
+
+Output:
+0
+
+Explanation:
+The smallest element greater than or equal to 0 is 1.
+Since 1 appears multiple times, return the first occurrence (index 0).
+
+Constraints:
+1 ≤ arr.size() ≤ 10^6
+1 ≤ arr[i] ≤ 10^6
+0 ≤ x ≤ arr[n-1]
+
+Approach:
+- Since the array is sorted, use Binary Search.
+- Whenever arr[mid] >= x, store mid as a possible answer
+  and continue searching in the left half.
+- Otherwise, search in the right half.
+- Return the stored index.
+
+Time Complexity: O(log n)
+Space Complexity: O(1)
+*/
+
+#include <vector>
+using std::vector;
+
+class Solution {
+public:
+    int findCeil(vector<int>& arr, int x) {
+
+        int low = 0;
+        int high = arr.size() - 1;
+        int ans = -1;
+
+        while (low <= high) {
+
+            int mid = low + (high - low) / 2;
+
+            if (arr[mid] >= x) {
+                ans = mid;
+                high = mid - 1;
+            } else {
+                low = mid + 1;
+            }
+        }
+
+        return ans;
+    }
+};
