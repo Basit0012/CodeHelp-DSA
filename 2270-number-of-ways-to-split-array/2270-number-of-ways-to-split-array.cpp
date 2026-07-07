@@ -19,7 +19,7 @@ public:
         reverse(suff.begin(),suff.end());
         int ans=0;
         for(int i=0;i<n-1;i++){
-        // if current element of prefix is greater than suffix element
+        // if current element of prefix is greater than and equal suffix element
         // than increment the ans.
         if(pref[i]>=suff[i])
         ans++;
