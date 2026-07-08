@@ -14,7 +14,7 @@ public:
                      end++;
                 sum += nums[end];
                 }
-                else if(end > n-1 && sum < target) return 0;
+                // else if(end > n-1 && sum < target) return 0;
                 else break;
             }
             
