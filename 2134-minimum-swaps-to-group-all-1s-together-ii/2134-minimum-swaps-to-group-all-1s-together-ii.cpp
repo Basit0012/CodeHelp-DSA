@@ -11,7 +11,7 @@ public:
         for(int i = 0; i<windowSize;i++){
             if(arr[i]==0)zC++;
         }
-        // return zC;
+        
         ans = zC;
         for(int i=0;i<n;i++){
             if(arr[i]==0)zC--;
