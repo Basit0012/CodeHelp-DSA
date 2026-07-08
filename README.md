@@ -28,6 +28,7 @@
 | [0169-majority-element](https://github.com/Basit0012/CodeHelp-DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Basit0012/CodeHelp-DSA/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Basit0012/CodeHelp-DSA/tree/master/0283-move-zeroes) |
+| [0643-maximum-average-subarray-i](https://github.com/Basit0012/CodeHelp-DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/Basit0012/CodeHelp-DSA/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Basit0012/CodeHelp-DSA/tree/master/0724-find-pivot-index) |
 | [0875-koko-eating-bananas](https://github.com/Basit0012/CodeHelp-DSA/tree/master/0875-koko-eating-bananas) |
@@ -90,4 +91,8 @@
 | [1480-running-sum-of-1d-array](https://github.com/Basit0012/CodeHelp-DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/Basit0012/CodeHelp-DSA/tree/master/1732-find-the-highest-altitude) |
 | [2270-number-of-ways-to-split-array](https://github.com/Basit0012/CodeHelp-DSA/tree/master/2270-number-of-ways-to-split-array) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/Basit0012/CodeHelp-DSA/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
