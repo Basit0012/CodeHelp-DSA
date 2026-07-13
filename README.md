@@ -43,6 +43,7 @@
 | [0001-two-sum](https://github.com/Basit0012/CodeHelp-DSA/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/Basit0012/CodeHelp-DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Basit0012/CodeHelp-DSA/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/Basit0012/CodeHelp-DSA/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Basit0012/CodeHelp-DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Basit0012/CodeHelp-DSA/tree/master/0242-valid-anagram) |
 ## Sorting
@@ -55,6 +56,7 @@
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Basit0012/CodeHelp-DSA/tree/master/0125-valid-palindrome) |
+| [0205-isomorphic-strings](https://github.com/Basit0012/CodeHelp-DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Basit0012/CodeHelp-DSA/tree/master/0242-valid-anagram) |
 ## Union-Find
 |  |
