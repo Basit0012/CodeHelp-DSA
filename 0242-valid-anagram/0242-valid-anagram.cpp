@@ -10,7 +10,7 @@ public:
             mp2[t[i]]++;
         }
         for(auto it:mp1){
-            // if value in mmp1 is not equals to value in mp2
+            // if value in mp1 is not equals to value in mp2
             // then return false
                 if(it.second!=mp2[it.first]){
                 // if(mp1!=mp2){
