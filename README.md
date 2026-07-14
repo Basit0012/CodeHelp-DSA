@@ -58,6 +58,7 @@
 | [0125-valid-palindrome](https://github.com/Basit0012/CodeHelp-DSA/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/Basit0012/CodeHelp-DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Basit0012/CodeHelp-DSA/tree/master/0242-valid-anagram) |
+| [0392-is-subsequence](https://github.com/Basit0012/CodeHelp-DSA/tree/master/0392-is-subsequence) |
 ## Union-Find
 |  |
 | ------- |
@@ -72,10 +73,12 @@
 | [0125-valid-palindrome](https://github.com/Basit0012/CodeHelp-DSA/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Basit0012/CodeHelp-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Basit0012/CodeHelp-DSA/tree/master/0283-move-zeroes) |
+| [0392-is-subsequence](https://github.com/Basit0012/CodeHelp-DSA/tree/master/0392-is-subsequence) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Basit0012/CodeHelp-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0392-is-subsequence](https://github.com/Basit0012/CodeHelp-DSA/tree/master/0392-is-subsequence) |
 ## Math
 |  |
 | ------- |
