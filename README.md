@@ -61,6 +61,7 @@
 | [0242-valid-anagram](https://github.com/Basit0012/CodeHelp-DSA/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Basit0012/CodeHelp-DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/Basit0012/CodeHelp-DSA/tree/master/0392-is-subsequence) |
+| [0415-add-strings](https://github.com/Basit0012/CodeHelp-DSA/tree/master/0415-add-strings) |
 ## Union-Find
 |  |
 | ------- |
@@ -87,6 +88,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/Basit0012/CodeHelp-DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Basit0012/CodeHelp-DSA/tree/master/0009-palindrome-number) |
+| [0415-add-strings](https://github.com/Basit0012/CodeHelp-DSA/tree/master/0415-add-strings) |
 ## Binary Search
 |  |
 | ------- |
@@ -115,4 +117,8 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Basit0012/CodeHelp-DSA/tree/master/0387-first-unique-character-in-a-string) |
+## Simulation
+|  |
+| ------- |
+| [0415-add-strings](https://github.com/Basit0012/CodeHelp-DSA/tree/master/0415-add-strings) |
 <!---LeetCode Topics End-->
