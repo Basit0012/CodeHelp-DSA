@@ -1,17 +1,12 @@
 class Solution {
 public:
+    int calculate(int n, vector<int>&arr){
+        if(n<=1)return 1;
+        if(arr[n]!=-1)return arr[n];
+        return arr[n]=calculate(n-1,arr)+calculate(n-2,arr);
+    }
     int climbStairs(int n) {
-        if(n<=2) return n;
-        int prev2 = 1; // Ways to reach step 1
-        int prev1 = 2; // Ways to reach step 2
-        int current = 0;
-        
-        for (int i = 3; i <= n; i++) {
-            current = prev1 + prev2;
-            prev2 = prev1;
-            prev1 = current;
-        }
-        
-        return current;
+        vector<int>arr(n+1,-1);
+        return calculate(n,arr);
     }
 };
