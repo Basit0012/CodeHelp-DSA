@@ -1,5 +1,9 @@
 class Solution {
 public:
+    bool check(const string& s, int i, int j){
+        if(i>j)return true;
+        return s[i]==s[j] and check(s,i+1,j-1);
+    }
     bool isPalindrome(string s) {
         string newstr;
         for(auto it:s){
@@ -9,15 +13,6 @@ public:
             if(it>='0' and it<='9')newstr+=it;
         }
         // write the code to check whether newstr is pallindrome or not
-        int left=0;
-        int right=newstr.size()-1;
-        while(left<right){
-            if(newstr[left] != newstr[right]){
-                return false;
-            }
-            left++;
-            right--;
-        }
-        return true;
+        return check(newstr,0,newstr.length()-1);
     }
 };
