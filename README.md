@@ -83,6 +83,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Basit0012/CodeHelp-DSA/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Basit0012/CodeHelp-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/Basit0012/CodeHelp-DSA/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/Basit0012/CodeHelp-DSA/tree/master/0509-fibonacci-number) |
@@ -91,6 +92,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/Basit0012/CodeHelp-DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Basit0012/CodeHelp-DSA/tree/master/0009-palindrome-number) |
+| [0070-climbing-stairs](https://github.com/Basit0012/CodeHelp-DSA/tree/master/0070-climbing-stairs) |
 | [0415-add-strings](https://github.com/Basit0012/CodeHelp-DSA/tree/master/0415-add-strings) |
 | [0509-fibonacci-number](https://github.com/Basit0012/CodeHelp-DSA/tree/master/0509-fibonacci-number) |
 ## Binary Search
@@ -132,5 +134,6 @@
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Basit0012/CodeHelp-DSA/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Basit0012/CodeHelp-DSA/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
