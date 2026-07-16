@@ -56,6 +56,7 @@
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Basit0012/CodeHelp-DSA/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/Basit0012/CodeHelp-DSA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Basit0012/CodeHelp-DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Basit0012/CodeHelp-DSA/tree/master/0205-isomorphic-strings) |
@@ -85,6 +86,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Basit0012/CodeHelp-DSA/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/Basit0012/CodeHelp-DSA/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Basit0012/CodeHelp-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/Basit0012/CodeHelp-DSA/tree/master/0392-is-subsequence) |
@@ -138,4 +140,8 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/Basit0012/CodeHelp-DSA/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Basit0012/CodeHelp-DSA/tree/master/0509-fibonacci-number) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Basit0012/CodeHelp-DSA/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
