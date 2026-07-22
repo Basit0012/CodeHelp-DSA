@@ -59,6 +59,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Basit0012/CodeHelp-DSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Basit0012/CodeHelp-DSA/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/Basit0012/CodeHelp-DSA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Basit0012/CodeHelp-DSA/tree/master/0151-reverse-words-in-a-string) |
@@ -162,4 +163,8 @@
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Basit0012/CodeHelp-DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0142-linked-list-cycle-ii](https://github.com/Basit0012/CodeHelp-DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/Basit0012/CodeHelp-DSA/tree/master/0206-reverse-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Basit0012/CodeHelp-DSA/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
