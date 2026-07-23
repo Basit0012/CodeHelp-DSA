@@ -30,6 +30,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/Basit0012/CodeHelp-DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/Basit0012/CodeHelp-DSA/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Basit0012/CodeHelp-DSA/tree/master/0283-move-zeroes) |
+| [0496-next-greater-element-i](https://github.com/Basit0012/CodeHelp-DSA/tree/master/0496-next-greater-element-i) |
 | [0643-maximum-average-subarray-i](https://github.com/Basit0012/CodeHelp-DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/Basit0012/CodeHelp-DSA/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Basit0012/CodeHelp-DSA/tree/master/0724-find-pivot-index) |
@@ -49,6 +50,7 @@
 | [0217-contains-duplicate](https://github.com/Basit0012/CodeHelp-DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Basit0012/CodeHelp-DSA/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Basit0012/CodeHelp-DSA/tree/master/0387-first-unique-character-in-a-string) |
+| [0496-next-greater-element-i](https://github.com/Basit0012/CodeHelp-DSA/tree/master/0496-next-greater-element-i) |
 ## Sorting
 |  |
 | ------- |
@@ -167,4 +169,9 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Basit0012/CodeHelp-DSA/tree/master/0020-valid-parentheses) |
+| [0496-next-greater-element-i](https://github.com/Basit0012/CodeHelp-DSA/tree/master/0496-next-greater-element-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Basit0012/CodeHelp-DSA/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
