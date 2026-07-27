@@ -18,5 +18,5 @@ int main(){
     root->right=new Node(7);
     cout<<root->data<<endl;
     cout<<root->left->data<<endl;
-
+    cout<<root->right->data<<endl;
 }
