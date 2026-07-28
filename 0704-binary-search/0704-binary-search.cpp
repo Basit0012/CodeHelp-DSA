@@ -1,14 +1,19 @@
 class Solution {
 public:
-    int binary(vector<int>&nums,int target,int low, int high){
-        if(low>high)return -1;
-        int mid=low+(high-low)/2;
-        if(nums[mid]>target)return binary(nums,target,low,mid-1);
-        else if(nums[mid]<target)return binary(nums,target,mid+1,high);
-        return mid;
-    }
-    int search(vector<int>& nums, int target){
-        return binary(nums,target,0,nums.size()-1);
-        
+    int search(vector<int>& nums, int target) {
+        int left = 0;
+        int right = nums.size() -1;
+        while(left<=right){
+            int middle = left+(right-left)/2;
+            if(target==nums[middle]){
+                return middle;
+            }
+            else if(target<nums[middle]){
+                right=middle-1;
+            }else{
+                left=middle+1;
+            }
+        }
+        return -1;
     }
 };
