@@ -1,35 +1,34 @@
 #include <iostream>
 using namespace std;
 
-class Animal{
-    private:
-        string name = "Sheru";
-        int age = 4;
+class Student {
+private:
+    string name;
+    int age;
 
-    public:
-    string Type="Animal";
+public:
+    // Constructor to initialize private members
+    Student(string n, int a) {
+        name = n;
+        age = a;
+    }
 
-    void display(){//here we are accessoing the private members using a public function
-        cout<<"Name: "<<name<<endl;
-        cout<<"Age: "<<age<<endl;
-    }
-    void set(string s, int n){ //setter function
-        name = s;
-        age = n;
-    }
+    // Function declaration
+    void display();
 };
-// :: scope resolution operator
-void Animal::display(){
-    cout<<"Name: "<<name<<endl;
-    cout<<"Age: "<<age<<endl;
+
+// Function definition outside the class
+// Here we are accessing the private members using a public function
+void Student::display() {
+    cout << "Name: " << name << endl;
+    cout << "Age: " << age << endl;
 }
 
-int main(){
-    Animal dog;//This dog is an object of class Animal
-    dog.display();
-    cout<<endl;
-    dog.Type="DOG";
-    cout<<"Type: "<<dog.Type<<endl;
-    
+int main() {
+    Student s1("Basit", 22);
+
+    // Calling the public function
+    s1.display();
+
     return 0;
 }
