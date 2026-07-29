@@ -18,7 +18,11 @@ class Animal{
         age = n;
     }
 };
-
+// :: scope resolution operator
+void Animal::display(){
+    cout<<"Name: "<<name<<endl;
+    cout<<"Age: "<<age<<endl;
+}
 
 int main(){
     Animal dog;//This dog is an object of class Animal
