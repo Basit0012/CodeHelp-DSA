@@ -8,9 +8,9 @@ public:
             if(target == nums[middle]){
                 return middle;
             }else if(target<nums[middle]){
-                right = middle - 1;
+                right = middle-1;
             }else{
-                left = middle + 1;
+                left = middle+1;
             }
         }
         return -1;
