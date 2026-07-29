@@ -1,10 +1,22 @@
 #include <iostream>
 using namespace std;
 
+class Student;
+
+class bird {
+public:
+    void showname(Student a) {
+        cout << "Name: " << a.name << endl;
+    }
+};
+
 class Student {
 private:
     string name;
     int age;
+    // friend class
+    friend class bird;
+
 
 public:
     // Constructor to initialize private members
