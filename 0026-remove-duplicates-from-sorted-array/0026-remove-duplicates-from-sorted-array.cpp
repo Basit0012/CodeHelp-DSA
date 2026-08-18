@@ -11,7 +11,7 @@ public:
                 high++;
                 continue;
             }
-           nums[low+1]=nums[high];
+            nums[low+1]=nums[high];
             low++;
             count++;
             high++;
