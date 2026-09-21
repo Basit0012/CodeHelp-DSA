@@ -12,7 +12,8 @@ int main()
     v.insert(v.begin(),100);
 
     v.pop_back();
-    
+    v.erase(v.begin());
+
     for(int i:v){
         cout<<i<<" ";
     }
