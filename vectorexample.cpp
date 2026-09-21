@@ -11,6 +11,8 @@ int main()
     v.push_back(30);
     v.insert(v.begin(),100);
 
+    v.pop_back();
+    
     for(int i:v){
         cout<<i<<" ";
     }
