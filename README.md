@@ -35,6 +35,7 @@
 | [0283-move-zeroes](https://github.com/Basit0012/CodeHelp-DSA/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/Basit0012/CodeHelp-DSA/tree/master/0496-next-greater-element-i) |
 | [0643-maximum-average-subarray-i](https://github.com/Basit0012/CodeHelp-DSA/tree/master/0643-maximum-average-subarray-i) |
+| [0697-degree-of-an-array](https://github.com/Basit0012/CodeHelp-DSA/tree/master/0697-degree-of-an-array) |
 | [0704-binary-search](https://github.com/Basit0012/CodeHelp-DSA/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Basit0012/CodeHelp-DSA/tree/master/0724-find-pivot-index) |
 | [0875-koko-eating-bananas](https://github.com/Basit0012/CodeHelp-DSA/tree/master/0875-koko-eating-bananas) |
@@ -56,6 +57,7 @@
 | [0242-valid-anagram](https://github.com/Basit0012/CodeHelp-DSA/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Basit0012/CodeHelp-DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/Basit0012/CodeHelp-DSA/tree/master/0496-next-greater-element-i) |
+| [0697-degree-of-an-array](https://github.com/Basit0012/CodeHelp-DSA/tree/master/0697-degree-of-an-array) |
 ## Sorting
 |  |
 | ------- |
