@@ -204,6 +204,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Basit0012/CodeHelp-DSA/tree/master/0094-binary-tree-inorder-traversal) |
+| [0098-validate-binary-search-tree](https://github.com/Basit0012/CodeHelp-DSA/tree/master/0098-validate-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Basit0012/CodeHelp-DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Basit0012/CodeHelp-DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Basit0012/CodeHelp-DSA/tree/master/0145-binary-tree-postorder-traversal) |
@@ -212,6 +213,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Basit0012/CodeHelp-DSA/tree/master/0094-binary-tree-inorder-traversal) |
+| [0098-validate-binary-search-tree](https://github.com/Basit0012/CodeHelp-DSA/tree/master/0098-validate-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Basit0012/CodeHelp-DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Basit0012/CodeHelp-DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Basit0012/CodeHelp-DSA/tree/master/0145-binary-tree-postorder-traversal) |
@@ -220,6 +222,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Basit0012/CodeHelp-DSA/tree/master/0094-binary-tree-inorder-traversal) |
+| [0098-validate-binary-search-tree](https://github.com/Basit0012/CodeHelp-DSA/tree/master/0098-validate-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Basit0012/CodeHelp-DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Basit0012/CodeHelp-DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Basit0012/CodeHelp-DSA/tree/master/0145-binary-tree-postorder-traversal) |
@@ -236,4 +239,8 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Basit0012/CodeHelp-DSA/tree/master/0141-linked-list-cycle) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/Basit0012/CodeHelp-DSA/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->
