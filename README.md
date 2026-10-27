@@ -71,6 +71,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Basit0012/CodeHelp-DSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Basit0012/CodeHelp-DSA/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Basit0012/CodeHelp-DSA/tree/master/0032-longest-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/Basit0012/CodeHelp-DSA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Basit0012/CodeHelp-DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Basit0012/CodeHelp-DSA/tree/master/0205-isomorphic-strings) |
@@ -109,6 +110,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Basit0012/CodeHelp-DSA/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Basit0012/CodeHelp-DSA/tree/master/0032-longest-valid-parentheses) |
 | [0070-climbing-stairs](https://github.com/Basit0012/CodeHelp-DSA/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Basit0012/CodeHelp-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/Basit0012/CodeHelp-DSA/tree/master/0392-is-subsequence) |
@@ -187,6 +189,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Basit0012/CodeHelp-DSA/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Basit0012/CodeHelp-DSA/tree/master/0032-longest-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Basit0012/CodeHelp-DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Basit0012/CodeHelp-DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Basit0012/CodeHelp-DSA/tree/master/0145-binary-tree-postorder-traversal) |
@@ -247,4 +250,5 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Basit0012/CodeHelp-DSA/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Basit0012/CodeHelp-DSA/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
