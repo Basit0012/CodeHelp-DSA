@@ -243,4 +243,8 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Basit0012/CodeHelp-DSA/tree/master/0098-validate-binary-search-tree) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Basit0012/CodeHelp-DSA/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
