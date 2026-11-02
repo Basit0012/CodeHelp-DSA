@@ -151,6 +151,7 @@
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/Basit0012/CodeHelp-DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Basit0012/CodeHelp-DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/Basit0012/CodeHelp-DSA/tree/master/0387-first-unique-character-in-a-string) |
 ## Simulation
@@ -193,6 +194,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/Basit0012/CodeHelp-DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Basit0012/CodeHelp-DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Basit0012/CodeHelp-DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [0225-implement-stack-using-queues](https://github.com/Basit0012/CodeHelp-DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Basit0012/CodeHelp-DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/Basit0012/CodeHelp-DSA/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
@@ -202,6 +204,7 @@
 ## Design
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/Basit0012/CodeHelp-DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Basit0012/CodeHelp-DSA/tree/master/0232-implement-queue-using-stacks) |
 ## Tree
 |  |
